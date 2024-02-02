@@ -4,7 +4,7 @@
 	"name": "Selective Scrubber",
 	"description": "Those secret sites? Begone from my history!",
 	"version": "1.0.0",
-	"homepage_url": "https://github.com/JakeSteam/SelectiveScrubber",
+	"homepage_url": "https://github.com/maiapiechocki/SelectiveScrubber",
 	"icons": {
 		"48": "images/icon_48.png",
 		"96": "images/icon_96.png"
